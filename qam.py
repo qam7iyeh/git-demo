@@ -1,1 +1,1 @@
-hello qamhiyeh
+print(hello qamhiyeh)
